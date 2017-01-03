@@ -16,4 +16,5 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_bullhead.mk \
-    $(LOCAL_DIR)/cos.mk
+    $(LOCAL_DIR)/cos.mk \
+    $(LOCAL_DIR)/cos_bullhead.mk
